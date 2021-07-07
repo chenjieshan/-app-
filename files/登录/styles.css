@@ -554,7 +554,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'新細明體-ExtB Bold', '新細明體-ExtB';
+  font-family:'新細明體-ExtB Bold', '新細明體-ExtB Regular', '新細明體-ExtB';
   font-weight:700;
   font-style:normal;
   font-size:48px;
@@ -566,7 +566,7 @@
   top:225px;
   width:109px;
   height:62px;
-  font-family:'新細明體-ExtB Bold', '新細明體-ExtB';
+  font-family:'新細明體-ExtB Bold', '新細明體-ExtB Regular', '新細明體-ExtB';
   font-weight:700;
   font-style:normal;
   font-size:48px;
